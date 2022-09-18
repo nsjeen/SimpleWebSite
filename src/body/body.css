@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia");
+.image{
+    display: inline-flex;
+    justify-content: center;
+    margin: auto
+  
+
+}
+.image img{
+    border-radius: 20px;
+    height: 500px;
+    width: 1050px;
+    margin-top: 20px;
+    margin-left: 150px;
+    box-shadow: 0px 10px 30px #cac7c7;
+    
+}
+
+.image-footer{
+    text-align: center;
+}
+
+.image-footer ul{
+    display: inline-flex;
+}
+.image-footer ul li{
+    list-style: none;
+    margin: 10px 20px;
+    
+}
+.image-footer ul li a{
+    text-decoration: none;
+    color: #555252;
+    font-size: 20px;
+    padding: 5px 50px;
+    font-weight: 600;
+}
+
+.image-footer ul .dribble a{
+    font-family: 'Sofia', sans-serif;
+}
+.image-footer ul .Pinterest a{
+    font-family: M;
+}
